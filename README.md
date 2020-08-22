@@ -7,7 +7,7 @@ Changelog: 22.08.2020.
 GTK-3 Theme
 -----------
 
-Correction button.png
+Correction button.png anf gtkrc file
 
 Plasma Theme
 ------------
