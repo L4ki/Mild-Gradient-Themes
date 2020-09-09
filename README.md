@@ -20,3 +20,19 @@ IconTheme
 ---------
 
 Correction of some icons in the action folder
+
+Changelog: 09.09.2020.
+-----------------------
+
+Plasma Theme
+-------------
+
+Widget correction: action-overlays .svg
+
+Added icons: amarok.svg, akregator.svg, akonadi.svg
+
+GTK-3 Theme
+-----------
+
+
+Gtkrc file correction
