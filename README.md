@@ -36,3 +36,19 @@ GTK-3 Theme
 
 
 Gtkrc file correction
+
+Changelog: 09.10.2020.
+---------------------
+
+Plasma Theme
+-------------
+Fixed widget: button.svg
+
+Icon correction: window.svg
+
+Icons
+------
+
+Added mpd.svg icon
+
+Modified mouse icons
